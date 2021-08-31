@@ -22,10 +22,10 @@ Mira **Despliegue** para conocer como ejecutar el proyecto.
 
 ## Construido con 🛠️
 
-* [HTML5](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Lenguaje de progrmación
-* [CCS3](https://netbeans.apache.org/download/index.html) - IDE
-* [Bootstrap](https://netbeans.apache.org/download/index.html) - IDE
-* [Javascript](https://netbeans.apache.org/download/index.html) - IDE
+* [HTML5]
+* [CCS3]
+* [Bootstrap]
+* [Javascript]
 
 ## Autores ✒️
 
